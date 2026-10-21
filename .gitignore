@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.DS_Store
+
+# 本地产物 / 临时截图
+/tmp-*
+/screenshot-tmp-*
